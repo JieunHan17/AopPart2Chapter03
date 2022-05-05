@@ -45,7 +45,7 @@
             app:layout_constraintTop_toTopOf="@id/numberPicker1" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/changeButton"
+            android:id="@+id/changePasswordButton"
             android:layout_width="10dp"
             android:layout_height="10dp"
             android:layout_marginTop="10dp"
